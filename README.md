@@ -18,9 +18,6 @@
 
 *(You can add your own image — for example, a screenshot of the running app)*  
 
-Example:  
-![Keyboard Cleaner Screenshot](docs/screenshot.png)
-
 > 💡 Create a `docs/` folder in your project and place your screenshot there.  
 > It will automatically show up on GitHub once committed.
 
